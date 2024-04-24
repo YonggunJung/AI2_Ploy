@@ -1,2 +1,2 @@
 # AI2_Ploy
-Korea Polytech University in Busan
+# Korea Polytech University in Busan
